@@ -13,3 +13,40 @@ This is a simple tool to identify drivers on linux.
 | Chipsets | Yes      |
 |Wifi     | Yes       |
 | Wireless| Yes       |
+
+
+
+## Installation
+
+It is easy to get started.
+
+> 1. Clone Repository.
+``python 
+git clone https://github.com/strotic/fmdr.git
+``
+
+> 2. CD into directory
+``python
+cd fdmr 
+``
+
+> 2. Permissions.
+``python 
+chmod +x fmdr
+``
+> 3 Running.
+``python
+./fmdr
+``
+
+## Syntax
+
+You can use the --help command to see usage commands.
+
+
+# Simple usecase.
+
+Shows all connected USB devices. 
+
+![demo](https://user-images.githubusercontent.com/86202527/122690832-3af4be00-d21b-11eb-98f5-3926763a0427.png)
+
