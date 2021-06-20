@@ -30,11 +30,12 @@ git clone https://github.com/strotic/fmdr.git
 cd fdmr 
 ``
 
-> 2. Permissions.
+> 3. Permissions.
 ``python 
 chmod +x fmdr
 ``
-> 3 Running.
+
+> 4 Running.
 ``python
 ./fmdr
 ``
