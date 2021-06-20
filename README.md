@@ -5,7 +5,7 @@
 # Find My Drivers
 
 
-This is a simple tool to identify drivers on linux. 
+This is a simple tool to identify  USB, PCI drivers on linux. 
 
 
 | Drivers | Supported |
@@ -35,7 +35,7 @@ cd fdmr
 chmod +x fmdr
 ``
 
-> 4 Running.
+> 4.  Running.
 ``python
 ./fmdr
 ``
