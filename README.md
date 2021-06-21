@@ -20,22 +20,22 @@ This is a simple tool to identify  USB, PCI drivers on linux.
 
 It is easy to get started.
 
-> 1. Clone Repository.
+• 1. Clone Repository.
 ``python 
 git clone https://github.com/strotic/fmdr.git
 ``
 
-> 2. CD into directory
+• 2. CD into directory
 ``python
 cd fdmr 
 ``
 
-> 3. Permissions.
+• 3. Permissions.
 ``python 
 chmod +x fmdr
 ``
 
-> 4.  Running.
+• 4.  Running.
 ``python
 ./fmdr
 ``
